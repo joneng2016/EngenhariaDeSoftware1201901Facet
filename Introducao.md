@@ -121,3 +121,24 @@
 	<li>Compreender como usar esses modelos</li>
 	<li>A partir desses modelos, saber organizar a estrutura do código</li>	
 </ul>
+
+<h5>Realidade da Engenharia de Software nos Dias Atuais</h5>
+<ul>
+	<li>Engenharia de Software é uma Engenharia propriamente dito?</li>
+	<li>Alguns Desenvolvedores não concordam em usar Engenharia de Software</li>
+	<li>Outros Desenvolvedores querem usar os seus recursos sobre qualquer condições</li>
+	<li>Perspectiva do uso de Engenharia de Software em empresa pequena</li>
+	<li>Perspectiva do uso de Engenharia de Software em empresas grandes</li>	
+</ul>
+
+
+<h5>Engenharia de Software - Impossível não usar</h5>
+<ul>
+	<li>Refatorar código sai muito caro</li>
+	<li>Qualquer um é capaz de criar um código, mas são poucos que criam códigos profissionais</li>
+	<li>A engenharia de software parece ser algo de alto nível e um tanto focado no mundo corporativo.</li>
+	<li>Contudo a Engenharia de Software está totalmente relacionada com os conceitos mais fundamentais da computação</li>
+	<li>Uma das maneiras de se conceber o que é "computação" consiste em compreender como uma maneira de conceber "representações" por meio de linguagens formais</li>
+	<li>Portanto a Engenharia de Software consiste de diversas técnicas e metodologias a fim de tornar possível a implementação de um software que corresponda com os interesses do usuário</li>
+	<li>Portanto, mesmo que a empresa não tenha "cultura" de conceber uma Engenharia do Software, o programador deve necessariamente empregar pelo menos alguns recursos.</li>
+</ul>
