@@ -100,4 +100,76 @@
 	</ul>
 </ul>
 
+Precondições: O sistema foi programado para uma senha e para reconhecer
+vários sensores.
+Disparador: O proprietário decide “acionar” o sistema, isto é, ativar as funções
+de alarme.
+Cenário:
+1. Proprietário: observa o painel de controle
+2. Proprietário: introduz a senha
+3. Proprietário: seleciona “em casa” ou “fora de casa”
+4. Proprietário: observa a luz de alarme vermelha para indicar que o CasaSegura foi armado
+Exceções:
+1. O painel de controle encontra-se no estado não disponível: o proprietário verifica todos os sensores
+para determinar quais estão abertos; fechando-os.
+2. A senha incorreta (o painel de controle emite um bipe): o proprietário introduz novamente a senha,
+desta vez correta.
+3. Senha não reconhecida: o subsistema de monitoramento e resposta deve ser contatado para repro-
+gramar a senha.
+4. É selecionado em casa: o painel de controle emite dois bipes e uma luz de em casa é acesa; os sen-
+sores periféricos são ativados.
+5. É selecionado fora de casa: o painel de controle emite três bipes e uma luz fora de casa é acesa;
+todos os sensores são ativados.
+Prioridade: Essencial, deve ser implementada
+Quando disponível: Primeiro incremento
+Frequência de uso: Várias vezes por dia
+Canal com o ator: Via interface do painel de controle
+Atores secundários: Técnico de suporte, sensores
+Canais com os atores secundários:
+Técnico de suporte: linha telefônica
+Sensores: interfaces hardwired e de radiofrequência
+
 <img src="/fig.png">
+
+5.1. Por que um número muito grande de desenvolvedores de software não dedica mui-
+ta atenção à engenharia de requisitos? Existiria alguma circunstância em que poderíamos
+deixá-la de lado?
+5.2. Foi lhe dada a responsabilidade de extrair os requisitos de um cliente que lhe diz que
+está muito ocupado para poder atendê-lo. O que você deveria fazer?
+5.3. Discuta alguns dos problemas que ocorrem quando os requisitos têm de ser obtidos de
+três ou quatro clientes diferentes.
+5.4. Por que dizemos que o modelo de análise representa uma reprodução de um sistema em
+determinado momento?
+5.5. Suponhamos que você tenha convencido o cliente (você é um excelente vendedor) a
+concordar com todas as suas exigências como desenvolvedor. Isso o torna um mestre da
+negociação? Por quê?
+5.6. Desenvolva pelo menos três “perguntas livres de contexto” que você faria a um interes-
+sado durante a atividade de concepção.
+5.7. Desenvolva um “kit” de levantamento de requisitos. O kit deve incluir um conjunto de
+diretrizes para realizar uma reunião para levantamento de requisitos e materiais que podem
+ser utilizados para facilitar a criação de listas e quaisquer outros itens que poderiam ajudar
+na definição dos requisitos.
+5.8. Seu professor irá dividir a classe em grupos de quatro a seis alunos. Metade do grupo irá
+desempenhar o papel do departamento de marketing e a outra fará o papel da engenharia de
+software. Sua tarefa é definir os requisitos para a função de segurança do CasaSegura descri-
+ta neste capítulo. Realize uma reunião para levantamento de requisitos usando as diretrizes
+apresentadas neste capítulo.
+5.9. Desenvolva um caso de uso completo para uma das atividades a seguir:
+a. Fazer um saque em um caixa eletrônico.
+b. Usar seu cartão de débito para uma refeição em um restaurante.
+c. Comprar ações usando uma conta de corretagem on-line.
+d. Procurar livros (sobre um assunto específico) usando uma livraria on-line.
+e. Uma atividade especificada pelo seu professor.
+5.10. O que representam as “exceções” nos casos de uso?
+5.11. Descreva o que é um padrão de análise com suas próprias palavras.
+5.12. Usando o modelo apresentado na Seção 5.5.2, sugira um ou mais padrões de análise
+para os seguintes campos de aplicação:
+a. Software contábil
+b. Software de e-mail
+c. Navegadores para a Internet
+d. Software de processamento de texto
+e. Software para criação de sites
+f. Um campo de aplicação especificado pelo seu professor
+5.13. Qual o significado de ganha-ganha no contexto das negociações durante uma ativida-
+de de engenharia de requisitos?
+5.14. O que você acha que acontece quando uma validação de req
