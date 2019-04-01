@@ -133,43 +133,68 @@ Sensores: interfaces hardwired e de radiofrequência
 
 5.1. Por que um número muito grande de desenvolvedores de software não dedica mui-
 ta atenção à engenharia de requisitos? Existiria alguma circunstância em que poderíamos
-deixá-la de lado?
+deixá-la de lado?  
+<br>
 5.2. Foi lhe dada a responsabilidade de extrair os requisitos de um cliente que lhe diz que
 está muito ocupado para poder atendê-lo. O que você deveria fazer?
+<br>
 5.3. Discuta alguns dos problemas que ocorrem quando os requisitos têm de ser obtidos de
 três ou quatro clientes diferentes.
+<br>
 5.4. Por que dizemos que o modelo de análise representa uma reprodução de um sistema em
 determinado momento?
+<br>
 5.5. Suponhamos que você tenha convencido o cliente (você é um excelente vendedor) a
 concordar com todas as suas exigências como desenvolvedor. Isso o torna um mestre da
 negociação? Por quê?
+<br>
 5.6. Desenvolva pelo menos três “perguntas livres de contexto” que você faria a um interes-
 sado durante a atividade de concepção.
+<br>
 5.7. Desenvolva um “kit” de levantamento de requisitos. O kit deve incluir um conjunto de
 diretrizes para realizar uma reunião para levantamento de requisitos e materiais que podem
 ser utilizados para facilitar a criação de listas e quaisquer outros itens que poderiam ajudar
 na definição dos requisitos.
+<br>
 5.8. Seu professor irá dividir a classe em grupos de quatro a seis alunos. Metade do grupo irá
 desempenhar o papel do departamento de marketing e a outra fará o papel da engenharia de
 software. Sua tarefa é definir os requisitos para a função de segurança do CasaSegura descri-
 ta neste capítulo. Realize uma reunião para levantamento de requisitos usando as diretrizes
 apresentadas neste capítulo.
+<br>
 5.9. Desenvolva um caso de uso completo para uma das atividades a seguir:
+<br>
 a. Fazer um saque em um caixa eletrônico.
+<br>
 b. Usar seu cartão de débito para uma refeição em um restaurante.
+<br>
 c. Comprar ações usando uma conta de corretagem on-line.
+<br>
 d. Procurar livros (sobre um assunto específico) usando uma livraria on-line.
+<br>
 e. Uma atividade especificada pelo seu professor.
+<br>
+<br>
 5.10. O que representam as “exceções” nos casos de uso?
+<br>
 5.11. Descreva o que é um padrão de análise com suas próprias palavras.
+<br>
 5.12. Usando o modelo apresentado na Seção 5.5.2, sugira um ou mais padrões de análise
 para os seguintes campos de aplicação:
+<br>
 a. Software contábil
+<br>
 b. Software de e-mail
+<br>
 c. Navegadores para a Internet
+<br>
 d. Software de processamento de texto
+<br>
 e. Software para criação de sites
+<br>
 f. Um campo de aplicação especificado pelo seu professor
+<br>
 5.13. Qual o significado de ganha-ganha no contexto das negociações durante uma ativida-
 de de engenharia de requisitos?
+<br>
 5.14. O que você acha que acontece quando uma validação de req
